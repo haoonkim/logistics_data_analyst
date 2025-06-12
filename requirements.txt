@@ -1,0 +1,5 @@
+ pandas
+matplotlib
+sqlalchemy
+openai
+python-dotenv
